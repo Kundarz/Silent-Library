@@ -101,7 +101,7 @@ header {
 /* Hero */
 .hero {
   position: relative;
-  background: url('../assets/Hero.jpg') center/cover no-repeat, #111;
+  background: url('assets/Hero.jpg') center/cover no-repeat, #111;
   min-height: 450px;
   text-align: center;
   color: var(--primary-color);
